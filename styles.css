@@ -1,0 +1,17 @@
+body{
+	background: black;
+	color:white;
+	}
+	
+a{
+color:gray;
+}
+
+a:hover{
+color:black;
+background:white;
+}
+
+h1{
+	font-family:serif;
+	}
